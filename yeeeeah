@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1,Trans7 (720p)
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+#EXTINF:-1,Trans TV (720p)
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+#EXTINF:-1,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTINF:-1,TVRI
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8?app_type=web&userid=lite&chname=TVRI
+#EXTINF:-1,Channel Jowo
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
+#EXTINF:-1,Metro TV
+https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+#EXTINF:-1,SCTV
+https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+#EXTINF:-1,Kompas TV
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
+#EXTINF:-1,Indosiar
+https://live.vidio.com/live/205-indosiar-tv-stream/playlist.m3u8
+#EXTINF:-1,CNBC Indonesia (720p)
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1,CNN Indonesia TV
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+#EXTINF:-1,Jak TV
+https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8
+#EXTINF:-1,Moji
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+#EXTINF:-1,Rodja TV – Saluran Tilawah Al-Qur'an dan Kajian Islam
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1,Jawa Pos TV
+http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,JTV
+https://63b2dc7196c38.streamlock.net:1937/JTVSURABAYA/_definst_/myStream/playlist.m3u8
+#EXTINF:-1,tvOne
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1773251281/ei/cVaxabCJBOaUmNMPk92doQg/ip/2402%3A8780%3A1014%3A4f0e%3A5904%3Aad6e%3A343b%3A9881/id/yNKvkPJl-tg.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51773318/txs/51773317%2C51773318/playlist_duration/30/manifest_duration/30/demuxed/1/maudio/1/bui/AVNa5-xbWXgvQ3L5lj1oa4ogIsRrlNxdYNGaRT8vOlG6n-xu-ThgFFN9VbJ9HQAbbbuvmWQ6rZ7eI2Z8/spc/6dlaFKFLJaU8Io5DWL6q2hsuzzXL4uAA-ne35g4ChmMY4V-79qd4vOxhV04-AQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/short_key/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565682%2C51791334/dover/13/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Cplaylist_duration%2Cmanifest_duration%2Cdemuxed%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgWeWVbl8BhPAsfKlHlSCeQsyVUJWaTjh_eGz62zn6PZcCIFy2GYkORZjvl04_JEKyBWPWaOhcZY2P2UOALq4Cuz1y/file/index.m3u8
